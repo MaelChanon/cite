@@ -1,0 +1,53 @@
+name: Cite
+version: 1.0
+api-version: 1.19
+author: milou06
+main: me.cite.prok.Bankal
+commands:
+  enableRanking:
+    description: enableRanking
+    permission: enableRanking.use
+  disableRanking:
+    description: disableRanking
+    permission: disableRanking.use
+  enablePVP:
+    description: enablePVP
+    permission: enablePVP.use
+  disablePVP:
+    description: disablePVP
+    permission: disablePVP.use
+  enableShop:
+    description: enableShop
+    permission: enableShop.use
+  disableShop:
+    description: disableShop
+    permission: disableShop.use
+  spawn:
+    description: spawn
+  addPoints:
+    description: addPoints
+    permission: addPoints.use
+  mute:
+    description: mute
+    permission: mute.use
+  demute:
+    description: demute
+    permission: demute.use
+  getMostSolded:
+    description: getMostSolded
+    permission: getMostSolded.use
+  changePrices:
+    description: changePrices
+    permission: changePrices.use
+  enableHeadEvent:
+    description: enableHeadEvent
+    permission: enableHeadEvent.use
+  setBlockPrice:
+    description: setBlockPrice
+    permission: setBlockPrice.use
+  startHeadEvent:
+    description: startHeadEvent
+    permission: startHeadEvent.use
+  finirHeadEvent:
+    description: finirHeadEvent
+    permission: finirHeadEvent.use
